@@ -1,0 +1,13 @@
+1 science-fiction
+2 fantasy
+3 adventure
+4 historical
+5 romance
+6 mystery
+7 horror
+8 biography
+9 philosophy
+10 religion
+11 science
+12 cooking
+13 poetry
